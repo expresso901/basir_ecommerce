@@ -8,3 +8,4 @@
 5. Product List
 6. React router 
 7. Create Node.js server
+8. Fetch Products from backend
